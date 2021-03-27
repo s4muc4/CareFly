@@ -1,0 +1,12 @@
+{
+  "name": "AC1",
+  "displayName": "AC1",
+  "expo": {
+    "name": "AC1",
+    "slug": "AC1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
